@@ -1,0 +1,9 @@
+.send__form {
+    min-width: 400px;
+}
+
+.send__form__group {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "boringtickets",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@preact/compat": "^17.1.1",
+    "@stitches/react": "^1.2.8",
+    "@sweetalert2/theme-dark": "^5.0.11",
+    "html2canvas": "^1.4.1",
+    "linkstate": "^2.0.1",
+    "preact": "^10.5.15",
+    "preact-router": "^4.0.1",
+    "qrcode-svg": "^1.1.0",
+    "react-i18next": "^11.16.9",
+    "react-icons": "^4.4.0",
+    "react-qr-reader": "2.2.0",
+    "sweetalert2": "^11.4.13",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.1.5",
+    "vite": "^2.9.9"
+  }
+}
