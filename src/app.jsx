@@ -4,7 +4,6 @@ import "@sweetalert2/theme-dark/dark.min.css"
 import {Sync} from "./actions/sync/sync";
 import { styled, theme } from "./theme";
 import shareBtn from "./assets/svg/share.svg";
-import { FaQrcode } from "react-icons/fa";
 const Title = styled("h1", {
     fontFamily: theme.fonts.mont,
     fontSize: "4vw",
